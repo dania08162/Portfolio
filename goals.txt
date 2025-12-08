@@ -1,0 +1,4 @@
+intial commit
+docs: create more projects to add on portfolio
+docs: update README with future plans
+
