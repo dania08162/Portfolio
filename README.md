@@ -2,9 +2,7 @@
 A personal portfolio website to showcase my projects, skills, and experience.
 
 ##Technologies Used
-- HTML
 - Python
-- JavaScript
 
 ## Features (Planned)
 - About Me section
